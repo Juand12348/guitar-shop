@@ -1,0 +1,4 @@
+{
+  "name": "Guitar Shop Dev",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22"
+}
